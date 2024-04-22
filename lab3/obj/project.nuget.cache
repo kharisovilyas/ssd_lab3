@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "hG9Bze3KegOBQnFSlxSmhsfXd9zK4uBD23O39QOkbHY3WLdGF7Xhs17zz9Sre1QBHqIMGzcT+qiOVILFjnUT9w==",
+  "success": true,
+  "projectFilePath": "D:\\main\\_education\\4_semestr\\SSD_software_systems_development\\lab3\\lab3\\lab3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\reani\\.nuget\\packages\\jsonsubtypes\\2.0.1\\jsonsubtypes.2.0.1.nupkg.sha512",
+    "C:\\Users\\reani\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\reani\\.nuget\\packages\\oxyplot.core\\2.1.2\\oxyplot.core.2.1.2.nupkg.sha512",
+    "C:\\Users\\reani\\.nuget\\packages\\oxyplot.wpf\\2.1.2\\oxyplot.wpf.2.1.2.nupkg.sha512",
+    "C:\\Users\\reani\\.nuget\\packages\\oxyplot.wpf.shared\\2.1.2\\oxyplot.wpf.shared.2.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

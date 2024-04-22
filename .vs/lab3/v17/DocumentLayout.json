@@ -1,0 +1,278 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\main\\_education\\4_semestr\\SSD_software_systems_development\\lab3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18AEF458-21CE-4581-BE32-2137621AA8D7}|lab3\\lab3.csproj|d:\\main\\_education\\4_semestr\\ssd_software_systems_development\\lab3\\lab3\\model\\chartmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18AEF458-21CE-4581-BE32-2137621AA8D7}|lab3\\lab3.csproj|solutionrelative:lab3\\model\\chartmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18AEF458-21CE-4581-BE32-2137621AA8D7}|lab3\\lab3.csproj|d:\\main\\_education\\4_semestr\\ssd_software_systems_development\\lab3\\lab3\\utils\\settingsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18AEF458-21CE-4581-BE32-2137621AA8D7}|lab3\\lab3.csproj|solutionrelative:lab3\\utils\\settingsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18AEF458-21CE-4581-BE32-2137621AA8D7}|lab3\\lab3.csproj|d:\\main\\_education\\4_semestr\\ssd_software_systems_development\\lab3\\lab3\\utils\\dataparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18AEF458-21CE-4581-BE32-2137621AA8D7}|lab3\\lab3.csproj|solutionrelative:lab3\\utils\\dataparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18AEF458-21CE-4581-BE32-2137621AA8D7}|lab3\\lab3.csproj|d:\\main\\_education\\4_semestr\\ssd_software_systems_development\\lab3\\lab3\\viewmodel\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18AEF458-21CE-4581-BE32-2137621AA8D7}|lab3\\lab3.csproj|solutionrelative:lab3\\viewmodel\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18AEF458-21CE-4581-BE32-2137621AA8D7}|lab3\\lab3.csproj|d:\\main\\_education\\4_semestr\\ssd_software_systems_development\\lab3\\lab3\\viewmodel\\observableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18AEF458-21CE-4581-BE32-2137621AA8D7}|lab3\\lab3.csproj|solutionrelative:lab3\\viewmodel\\observableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18AEF458-21CE-4581-BE32-2137621AA8D7}|lab3\\lab3.csproj|d:\\main\\_education\\4_semestr\\ssd_software_systems_development\\lab3\\lab3\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18AEF458-21CE-4581-BE32-2137621AA8D7}|lab3\\lab3.csproj|solutionrelative:lab3\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18AEF458-21CE-4581-BE32-2137621AA8D7}|lab3\\lab3.csproj|d:\\main\\_education\\4_semestr\\ssd_software_systems_development\\lab3\\lab3\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18AEF458-21CE-4581-BE32-2137621AA8D7}|lab3\\lab3.csproj|solutionrelative:lab3\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{178DAE4A-D6C0-4979-BC06-5E4AA75A9808}|TestLab3\\TestLab3.csproj|d:\\main\\_education\\4_semestr\\ssd_software_systems_development\\lab3\\testlab3\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{178DAE4A-D6C0-4979-BC06-5E4AA75A9808}|TestLab3\\TestLab3.csproj|solutionrelative:testlab3\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18AEF458-21CE-4581-BE32-2137621AA8D7}|lab3\\lab3.csproj|d:\\main\\_education\\4_semestr\\ssd_software_systems_development\\lab3\\lab3\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{18AEF458-21CE-4581-BE32-2137621AA8D7}|lab3\\lab3.csproj|solutionrelative:lab3\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18AEF458-21CE-4581-BE32-2137621AA8D7}|lab3\\lab3.csproj|d:\\main\\_education\\4_semestr\\ssd_software_systems_development\\lab3\\lab3\\fun.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{18AEF458-21CE-4581-BE32-2137621AA8D7}|lab3\\lab3.csproj|solutionrelative:lab3\\fun.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\reani\\AppData\\Local\\Temp\\.vsdbgsrc\\b8b74ed96cb310e7521b08fc2fd291b3e429a4b509c86c75e9f5ab857cffbff6\\PropertyPathWorker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18AEF458-21CE-4581-BE32-2137621AA8D7}|lab3\\lab3.csproj|d:\\main\\_education\\4_semestr\\ssd_software_systems_development\\lab3\\lab3\\lab3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{18AEF458-21CE-4581-BE32-2137621AA8D7}|lab3\\lab3.csproj|solutionrelative:lab3\\lab3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{178DAE4A-D6C0-4979-BC06-5E4AA75A9808}|TestLab3\\TestLab3.csproj|d:\\main\\_education\\4_semestr\\ssd_software_systems_development\\lab3\\testlab3\\testlab3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{178DAE4A-D6C0-4979-BC06-5E4AA75A9808}|TestLab3\\TestLab3.csproj|solutionrelative:testlab3\\testlab3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\reani\\AppData\\Local\\Temp\\.vsdbgsrc\\d174300ffe2417dda60b311e62d84601264b0d7cf5cf09603b6d1881c8ee9e3b\\Dispatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\reani\\AppData\\Local\\Temp\\.vsdbgsrc\\05eef5923ee95e7b4d07a99c071f55421e7bebe4f5a950d08787244b5f736d3d\\RxApp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18AEF458-21CE-4581-BE32-2137621AA8D7}|lab3\\lab3.csproj|d:\\main\\_education\\4_semestr\\ssd_software_systems_development\\lab3\\lab3\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{18AEF458-21CE-4581-BE32-2137621AA8D7}|lab3\\lab3.csproj|solutionrelative:lab3\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 242,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\main\\_education\\4_semestr\\SSD_software_systems_development\\lab3\\TestLab3\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestLab3\\UnitTest1.cs",
+              "ToolTip": "D:\\main\\_education\\4_semestr\\SSD_software_systems_development\\lab3\\TestLab3\\UnitTest1.cs",
+              "RelativeToolTip": "TestLab3\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEAAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T23:49:55.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SettingsManager.cs",
+              "DocumentMoniker": "D:\\main\\_education\\4_semestr\\SSD_software_systems_development\\lab3\\lab3\\utils\\SettingsManager.cs",
+              "RelativeDocumentMoniker": "lab3\\utils\\SettingsManager.cs",
+              "ToolTip": "D:\\main\\_education\\4_semestr\\SSD_software_systems_development\\lab3\\lab3\\utils\\SettingsManager.cs",
+              "RelativeToolTip": "lab3\\utils\\SettingsManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T15:45:01.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "D:\\main\\_education\\4_semestr\\SSD_software_systems_development\\lab3\\lab3\\viewmodel\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "lab3\\viewmodel\\MainViewModel.cs",
+              "ToolTip": "D:\\main\\_education\\4_semestr\\SSD_software_systems_development\\lab3\\lab3\\viewmodel\\MainViewModel.cs",
+              "RelativeToolTip": "lab3\\viewmodel\\MainViewModel.cs",
+              "ViewState": "AQIAAAgBAAAAAAAAAAAAABABAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T21:07:35.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\main\\_education\\4_semestr\\SSD_software_systems_development\\lab3\\lab3\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "lab3\\MainWindow.xaml",
+              "ToolTip": "D:\\main\\_education\\4_semestr\\SSD_software_systems_development\\lab3\\lab3\\MainWindow.xaml",
+              "RelativeToolTip": "lab3\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-25T00:21:29.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TestLab3.csproj",
+              "DocumentMoniker": "D:\\main\\_education\\4_semestr\\SSD_software_systems_development\\lab3\\TestLab3\\TestLab3.csproj",
+              "RelativeDocumentMoniker": "TestLab3\\TestLab3.csproj",
+              "ToolTip": "D:\\main\\_education\\4_semestr\\SSD_software_systems_development\\lab3\\TestLab3\\TestLab3.csproj",
+              "RelativeToolTip": "TestLab3\\TestLab3.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-21T23:50:28.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChartModel.cs",
+              "DocumentMoniker": "D:\\main\\_education\\4_semestr\\SSD_software_systems_development\\lab3\\lab3\\model\\ChartModel.cs",
+              "RelativeDocumentMoniker": "lab3\\model\\ChartModel.cs",
+              "ToolTip": "D:\\main\\_education\\4_semestr\\SSD_software_systems_development\\lab3\\lab3\\model\\ChartModel.cs",
+              "RelativeToolTip": "lab3\\model\\ChartModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T21:00:06.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataParser.cs",
+              "DocumentMoniker": "D:\\main\\_education\\4_semestr\\SSD_software_systems_development\\lab3\\lab3\\utils\\DataParser.cs",
+              "RelativeDocumentMoniker": "lab3\\utils\\DataParser.cs",
+              "ToolTip": "D:\\main\\_education\\4_semestr\\SSD_software_systems_development\\lab3\\lab3\\utils\\DataParser.cs",
+              "RelativeToolTip": "lab3\\utils\\DataParser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T12:05:45.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ObservableObject.cs",
+              "DocumentMoniker": "D:\\main\\_education\\4_semestr\\SSD_software_systems_development\\lab3\\lab3\\viewmodel\\ObservableObject.cs",
+              "RelativeDocumentMoniker": "lab3\\viewmodel\\ObservableObject.cs",
+              "ToolTip": "D:\\main\\_education\\4_semestr\\SSD_software_systems_development\\lab3\\lab3\\viewmodel\\ObservableObject.cs",
+              "RelativeToolTip": "lab3\\viewmodel\\ObservableObject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T15:29:44.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\main\\_education\\4_semestr\\SSD_software_systems_development\\lab3\\lab3\\App.xaml",
+              "RelativeDocumentMoniker": "lab3\\App.xaml",
+              "ToolTip": "D:\\main\\_education\\4_semestr\\SSD_software_systems_development\\lab3\\lab3\\App.xaml",
+              "RelativeToolTip": "lab3\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-18T13:54:20.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\main\\_education\\4_semestr\\SSD_software_systems_development\\lab3\\lab3\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "lab3\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\main\\_education\\4_semestr\\SSD_software_systems_development\\lab3\\lab3\\MainWindow.xaml.cs",
+              "RelativeToolTip": "lab3\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T14:46:38.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "D:\\main\\_education\\4_semestr\\SSD_software_systems_development\\lab3\\lab3\\viewmodel\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "lab3\\viewmodel\\RelayCommand.cs",
+              "ToolTip": "D:\\main\\_education\\4_semestr\\SSD_software_systems_development\\lab3\\lab3\\viewmodel\\RelayCommand.cs",
+              "RelativeToolTip": "lab3\\viewmodel\\RelayCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T00:13:40.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "fun.png",
+              "DocumentMoniker": "D:\\main\\_education\\4_semestr\\SSD_software_systems_development\\lab3\\lab3\\fun.png",
+              "RelativeDocumentMoniker": "lab3\\fun.png",
+              "ToolTip": "D:\\main\\_education\\4_semestr\\SSD_software_systems_development\\lab3\\lab3\\fun.png",
+              "RelativeToolTip": "lab3\\fun.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-04-22T07:30:26.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "lab3.csproj",
+              "DocumentMoniker": "D:\\main\\_education\\4_semestr\\SSD_software_systems_development\\lab3\\lab3\\lab3.csproj",
+              "RelativeDocumentMoniker": "lab3\\lab3.csproj",
+              "ToolTip": "D:\\main\\_education\\4_semestr\\SSD_software_systems_development\\lab3\\lab3\\lab3.csproj",
+              "RelativeToolTip": "lab3\\lab3.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-21T23:50:45.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PropertyPathWorker.cs",
+              "DocumentMoniker": "C:\\Users\\reani\\AppData\\Local\\Temp\\.vsdbgsrc\\b8b74ed96cb310e7521b08fc2fd291b3e429a4b509c86c75e9f5ab857cffbff6\\PropertyPathWorker.cs",
+              "ToolTip": "C:\\Users\\reani\\AppData\\Local\\Temp\\.vsdbgsrc\\b8b74ed96cb310e7521b08fc2fd291b3e429a4b509c86c75e9f5ab857cffbff6\\PropertyPathWorker.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "ViewState": "AQIAAJMEAAAAAAAAAAAYwLIEAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T02:01:14.053Z",
+              "EditorCaption": " [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Dispatcher.cs",
+              "DocumentMoniker": "C:\\Users\\reani\\AppData\\Local\\Temp\\.vsdbgsrc\\d174300ffe2417dda60b311e62d84601264b0d7cf5cf09603b6d1881c8ee9e3b\\Dispatcher.cs",
+              "ToolTip": "C:\\Users\\reani\\AppData\\Local\\Temp\\.vsdbgsrc\\d174300ffe2417dda60b311e62d84601264b0d7cf5cf09603b6d1881c8ee9e3b\\Dispatcher.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "ViewState": "AQIAAKoBAAAAAAAAAAAwwMMBAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T14:47:28.259Z",
+              "EditorCaption": " [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RxApp.cs",
+              "DocumentMoniker": "C:\\Users\\reani\\AppData\\Local\\Temp\\.vsdbgsrc\\05eef5923ee95e7b4d07a99c071f55421e7bebe4f5a950d08787244b5f736d3d\\RxApp.cs",
+              "ToolTip": "C:\\Users\\reani\\AppData\\Local\\Temp\\.vsdbgsrc\\05eef5923ee95e7b4d07a99c071f55421e7bebe4f5a950d08787244b5f736d3d\\RxApp.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "ViewState": "AQIAAHoAAAAAAAAAAAAwwJMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T14:47:10.707Z",
+              "EditorCaption": " [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
